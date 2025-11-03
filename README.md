@@ -85,7 +85,7 @@ Designed to support hospital epidemiology teams and reduce **hospital-acquired i
 ---
 
 📂 Project Structure
-
+```
 PathoScope/
 ├── frontend/             # React UI
 │   ├── public/
@@ -100,7 +100,7 @@ PathoScope/
 ├── dashboard/            # Visualization modules
 ├── docs/                 # Design docs, architecture diagrams
 └── README.md
-
+```
 
 ---
 
@@ -120,14 +120,6 @@ We welcome contributions.
 4. Push and create PR
 
 
-
-
----
-
-👥 Team
-
-Project Lead: Abhinav Singh
-Research & Dev Team — Infection Analytics | AI | Web Systems
 
 
 ---
